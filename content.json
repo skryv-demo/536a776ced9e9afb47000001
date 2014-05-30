@@ -1,1 +1,13 @@
-{}
+{
+    "patiëntgegevens": {
+        "geslacht": {},
+        "etniciteit_vader": {},
+        "etniciteit_moeder": {},
+        "jaar_van_datacollectie": 2013
+    },
+    "datacollectie": {
+        "puberteitprepuberteit": {},
+        "insulineschema": {},
+        "datum_van_de_meest_recente_consultatie": "2013-04-03T22:00:00.000Z"
+    }
+}
