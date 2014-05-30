@@ -3,7 +3,8 @@
         "geslacht": {},
         "etniciteit_vader": {},
         "etniciteit_moeder": {},
-        "jaar_van_datacollectie": 2013
+        "jaar_van_datacollectie": 2013,
+        "geboortemaand": "2014-05-15T22:00:00.000Z"
     },
     "datacollectie": {
         "puberteitprepuberteit": {},
